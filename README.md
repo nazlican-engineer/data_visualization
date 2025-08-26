@@ -11,4 +11,10 @@ The Tips dataset briefly shows how many customers visited a restaurant, on which
 
 I would like to explain one of my analyses: the boxplot graph. (Boxplots are especially important in machine learning to show whether a dataset contains outliers; they are also quite effective as they display the median.) I placed the days on the x-axis and the total bills on the y-axis. To see how much men and women paid during these time intervals, I categorized the data using the gender column. Based on my results, I can say that the average total bill paid by men is higher than that paid by women.
 <img width="1025" height="491" alt="image" src="https://github.com/user-attachments/assets/1b17d658-17d2-4ffa-9850-60b0794fc701" />
+# **tips_dataset_analysis2**
+In another analysis on the Tips dataset, I used correlation plots, namely lmplot and scatterplot. Scatterplots and lmplots are used to show the relationship between numerical values. For example, if there is a direct proportion between two numerical variables in my dataset, it indicates a positive correlation; if there is an inverse proportion, it indicates a negative correlation. Additionally, in lmplot, the more the data points cluster around the line, the stronger the correlation is.
 
+But what exactly is a strong correlation? A strong correlation indicates that the predictions made by the graph are very close to the actual values. For instance, if the total bill is 20 TL and the tip given is 3 TL, looking at the graph, the more the data points for that price cluster around the line, the stronger the correlation is.
+
+I analyzed the relationship between the total bill and tips for customers who smoke and do not smoke, according to lunch and dinner hours. Based on my results, I observed that more customers, both smokers and non-smokers, visit the restaurant during dinner hours. This information can help the restaurant owner pay more attention to these peak hours.
+<img width="1671" height="624" alt="image" src="https://github.com/user-attachments/assets/ce2c0ea0-5cd9-4dd2-aebc-8f97795b3b17" />
