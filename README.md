@@ -28,6 +28,12 @@ In the last column, we can see how petal_width is distributed among species. For
 # **flights_dataset_analysis**
 The Flights dataset shows the total number of passengers on specific dates. I used this dataset to better understand heatmap graphs. From my analysis, I observed that the number of airline passengers increases especially during the summer months and gradually rises over the years. This indicates that people travel more in the summer and that air travel has become increasingly popular over time.
 <img width="938" height="530" alt="image" src="https://github.com/user-attachments/assets/140dba51-3e77-40dd-8ce1-d7203218ae59" />
+# **fmri_dataset_analysis**
+The fMRI dataset is used to examine how neural activity in a specific region of the brain changes over time in response to different events. In this graph, signal values are shown across timepoints on the x-axis, and the data is divided into two main categories—'stim' and 'cue'—using the "event" column.
+
+Upon examining the graph, it is observed that signal values peak between timepoints 5.0 and 7.5, indicating that brain activity reaches its highest level during this interval. Additionally, the signal response to the 'stim' stimulus reaches generally higher values compared to the 'cue' stimulus, suggesting that the brain exhibits a stronger response to 'stim' than to 'cue'.
+<img width="980" height="524" alt="image" src="https://github.com/user-attachments/assets/c153320c-f9e1-4e4a-bb4a-cf319f2bacbc" />
+
 
 
 
