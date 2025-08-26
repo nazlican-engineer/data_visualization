@@ -6,3 +6,9 @@ In this project, I performed certain analyses on the diamonds dataset. The diamo
 
 However, analyzing this dataset alone was not sufficient for me to interpret it correctly; therefore, I added the cut column as a hue (used to add a new category) parameter. Using this plot, I set the x-axis according to the minimum and maximum values I had previously found in the histogram. Based on my analyses, I can say that Ideal, the highest quality diamonds, are mostly concentrated in the $2000–$3000 range in my dataset. From this, I can conclude that in the market, high-quality but low-priced diamonds are more common.
 <img width="968" height="520" alt="image" src="https://github.com/user-attachments/assets/80e928a6-2c1d-4243-a5c3-89e8aaa14981" />
+# **tips_dataset_analysis**
+The Tips dataset briefly shows how many customers visited a restaurant, on which days and during which time intervals, and how much tip they left. I used this dataset to perform analyses, particularly employing violin and boxplot plots. This allowed me to understand the purpose and use of these types of graphs.
+
+I would like to explain one of my analyses: the boxplot graph. (Boxplots are especially important in machine learning to show whether a dataset contains outliers; they are also quite effective as they display the median.) I placed the days on the x-axis and the total bills on the y-axis. To see how much men and women paid during these time intervals, I categorized the data using the gender column. Based on my results, I can say that the average total bill paid by men is higher than that paid by women.
+<img width="1025" height="491" alt="image" src="https://github.com/user-attachments/assets/1b17d658-17d2-4ffa-9850-60b0794fc701" />
+
