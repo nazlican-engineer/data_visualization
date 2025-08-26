@@ -33,7 +33,9 @@ The fMRI dataset is used to examine how neural activity in a specific region of 
 
 Upon examining the graph, it is observed that signal values peak between timepoints 5.0 and 7.5, indicating that brain activity reaches its highest level during this interval. Additionally, the signal response to the 'stim' stimulus reaches generally higher values compared to the 'cue' stimulus, suggesting that the brain exhibits a stronger response to 'stim' than to 'cue'.
 <img width="980" height="524" alt="image" src="https://github.com/user-attachments/assets/c153320c-f9e1-4e4a-bb4a-cf319f2bacbc" />
-
+# **aapl_dataset_analysis**
+The AAPL (Apple Inc.) dataset shows the company’s stock prices over the years. Various analyses can be performed on this dataset, such as identifying the years when the stock prices were at their highest and lowest levels, or examining the opening and closing prices. To begin, I converted the date column into a DatetimeIndex format to ensure it was properly recognized as a date in the visualizations. Using a line plot, I observed that the closing price reached its lowest point around 2016, while the highest values occurred in 2018 and 2019.
+<img width="681" height="471" alt="image" src="https://github.com/user-attachments/assets/f891c6ea-2ddb-4e31-8de2-cf91ff215049" />
 
 
 
