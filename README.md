@@ -18,3 +18,32 @@ But what exactly is a strong correlation? A strong correlation indicates that th
 
 I analyzed the relationship between the total bill and tips for customers who smoke and do not smoke, according to lunch and dinner hours. Based on my results, I observed that more customers, both smokers and non-smokers, visit the restaurant during dinner hours. This information can help the restaurant owner pay more attention to these peak hours.
 <img width="1671" height="624" alt="image" src="https://github.com/user-attachments/assets/ce2c0ea0-5cd9-4dd2-aebc-8f97795b3b17" />
+# **iris_dataset_analysis**
+Iris veri setini pairplot grafiklerini daha iyi anlamak için kullandım. Pairplot, veri setindeki her bir sütunu birbirleriyle ilişkilendirir ve bu sayede değerlerin birbirleriyle olan ilişkilerini görmemizi sağlar. Mesela iris dataframe’ini pairplot içerisine koyup, species sütunu üzerinden analiz edelim. Dördüncü satırı inceleyecek olursak: Birinci sütunda sepal_length ve petal_length arasındaki ilişkilere türler bazında baktığımızda, her birinde dağılımlar tamamen düzgün değil; yani ilişki zayıf. İkinci sütunda da durum benzer. Fakat üçüncü sütunda, petal_length ve petal_width arasındaki ilişkilere baktığımızda, her bir tür için güçlü bir korelasyon gözlemleniyor. Bu da petal_width değerinin petal_length ile yakından ilişkili olduğunu, ancak sepal_length ile pek bir etkisi olmadığını gösteriyor. Son sütuna baktığımızda ise petal_width değerinin türler arasında nasıl bir dağılıma sahip olduğunu görüyoruz. Setosa türü için frekans fazla ama petal_width düşük, Versicolor için frekans orta ve petal_width değerleri biraz daha yüksek, Virginica türü için ise frekans nispeten düşük ama petal_width en yüksek seviyede. Bu durum, petal_width’in türleri ayırt etmede önemli bir değişken olduğunu ve özellikle petal_length ile birlikte kullanıldığında türler arasındaki farklılıkları daha net ortaya koyduğunu gösteriyor.
+<img width="1385" height="561" alt="image" src="https://github.com/user-attachments/assets/dd3261b4-9d50-4a5f-acc9-e82be058e6ef" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
