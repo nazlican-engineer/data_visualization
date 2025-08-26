@@ -26,7 +26,7 @@ Looking at the fourth row, when we examine the relationship between sepal_length
 In the last column, we can see how petal_width is distributed among species. For Setosa, the frequency is high but petal_width is low; for Versicolor, the frequency is moderate and petal_width values are slightly higher; and for Virginica, the frequency is relatively low but petal_width is at the highest level. This shows that petal_width is an important variable for distinguishing species and, when used together with petal_length, highlights the differences between species more clearly.
 <img width="1385" height="561" alt="image" src="https://github.com/user-attachments/assets/dd3261b4-9d50-4a5f-acc9-e82be058e6ef" />
 #**flights_dataset_analysis**
-The Passengers dataset shows the total number of passengers on specific dates. I used this dataset to better understand heatmap graphs. From my analysis, I observed that the number of airline passengers increases especially during the summer months and gradually rises over the years. This indicates that people travel more in the summer and that air travel has become increasingly popular over time.
+The Flights dataset shows the total number of passengers on specific dates. I used this dataset to better understand heatmap graphs. From my analysis, I observed that the number of airline passengers increases especially during the summer months and gradually rises over the years. This indicates that people travel more in the summer and that air travel has become increasingly popular over time.
 <img width="938" height="530" alt="image" src="https://github.com/user-attachments/assets/140dba51-3e77-40dd-8ce1-d7203218ae59" />
 
 
